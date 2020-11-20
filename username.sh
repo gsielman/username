@@ -1,1 +1,2 @@
+cp zip.sh
 
